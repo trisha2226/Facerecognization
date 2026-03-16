@@ -1,0 +1,3 @@
+pip install streamlit:pip install streamlit is a command used in Python to install the Streamlit library using pip. It downloads Streamlit from the Python Package Index (PyPI) and installs it on your system so you can create interactive web applications for data science and machine learning projects.
+pip install deepface:Python lo DeepFace library ni install cheyadaniki use chestaru, idi face recognition, face verification, age, gender, emotion detection lantivi AI features kosam use avutundi. 
+pip install opencv-python pillow:Python lo OpenCV mariyu Pillow libraries ni install cheyadaniki use chestaru, ivi image processing, image reading, editing, mariyu computer vision tasks kosam use avutayi. 
